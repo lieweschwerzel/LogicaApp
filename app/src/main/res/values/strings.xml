@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logica </string>
+    <string name="conjunction">Conjunction (AND)</string>
+    <string name="submit">SUBMIT</string>
+    <string name="f_t">"F      T"</string>
+    <string name="f_f">"F      F"</string>
+    <string name="a_and_b">"A ^ B"</string>
+    <string name="t_f">"T      F"</string>
+    <string name="t_t">"T      T"</string>
+    <string name="a_b">"A      B"</string>
+</resources>
